@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saints blessed for ever: or, God's people never forsaken asuring every true believer, of their blessed estate, and condition: very profitably to read, and comfortable to every believing soul that truly fears God. Being a rich portion of Gods love to his people; and worthy to be kept in memory for ever. Together with several perswasions to poor sinners, to leave their sins, and come to Christ by repentance. By Roger Hough.</title>
+            <author>Hough, Roger.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44592</idno>
+            <idno type="STC">Wing H2914</idno>
+            <idno type="STC">ESTC R215375</idno>
+            <idno type="EEBO-CITATION">99827270</idno>
+            <idno type="PROQUEST">99827270</idno>
+            <idno type="VID">31687</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44592)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31687)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1890:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Saints blessed for ever: or, God's people never forsaken asuring every true believer, of their blessed estate, and condition: very profitably to read, and comfortable to every believing soul that truly fears God. Being a rich portion of Gods love to his people; and worthy to be kept in memory for ever. Together with several perswasions to poor sinners, to leave their sins, and come to Christ by repentance. By Roger Hough.</title>
+                  <author>Hough, Roger.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by E. Crowch, for T. Vere, at the sign of the Cock in S. Johns-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: God's people never forsaken.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Faith --  Early works to 1800.</term>
+               <term>Sin --  Early works to 1800.</term>
+               <term>Repentance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31687:1" rendition="simple:additions"/>
+            <p>SAINTS Bleſſed for ever: OR, Gods People never forſaken</p>
+            <p>Aſuring every true Believer, of their Bleſſed Eſtate, and Condition: very profitable to read, and comfortable to every Believing Soul that truly fears God.</p>
+            <p>Being a rich Portion of Gods love to his Peo<g ref="char:EOLhyphen"/>ple; and worthy to be kept in memory for ever.</p>
+            <p>Together with ſeveral perſwaſions to poor Sin<g ref="char:EOLhyphen"/>ners, to leave their ſins, and come to Chriſt by Repentance.</p>
+            <p>By <hi>Roger Hough.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 37.25.</hi>
+               </bibl>
+               <p>I have been young, and now am old; yet have I not ſeen the Righteous forſaken, nor his Seed begging bread.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>E. Crowch,</hi> for <hi>T. Vere,</hi> at the ſign of the <hi>Cock</hi> in <hi>St. Johns-ſtreet.</hi> 1667.</p>
+            <pb facs="tcp:31687:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:31687:2" rendition="simple:additions"/>
+         </div>
+         <div type="license">
+            <pb facs="tcp:31687:3"/>
+            <p>
+               <hi>Licenſed,</hi> May the 4<hi rend="sup">th.</hi> 1667.</p>
+         </div>
+         <div type="poem">
+            <l>RIch Treaſures wee in earthen-veſſels find;</l>
+            <l>Oft I have been conſidring in my mind,</l>
+            <l>God his own People never will forſake;</l>
+            <l>Eternally, them to him he will take.</l>
+            <l>Reverend Readers, this in mind recall,</l>
+            <l>His word ſhall ſtand, when other things ſhall fal;</l>
+            <l>Oh do not doubt, but daily make requeſt</l>
+            <l>Unto the Thrown of Grace, with humblneſs;</l>
+            <l>Give God the glory which to him is due,</l>
+            <l>His Word and Promiſes, will daily comfort you.</l>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:31687:3" rendition="simple:additions"/>
+            <head>Saints bleſſed for ever, &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Hebrews 13.5.</hi>
+                  </bibl>
+                  <p>Let your converſation be without covetouſneſs, and be content with ſuch things as ye have: For he hath ſaid, I will never leave thee, nor forſake thee.</p>
+               </q>
+            </epigraph>
+            <p>AMongſt all other precious promiſes, God hath made to his own poor people, this is not the leaſt, which is communicated by the Author of this Epiſtle to the <hi>Hebrews;</hi> ſo that thoſe whom y<hi rend="sup">e</hi> Lord hath choſen, for his own people, by vertue of this Promiſe, may holdly ſay as in the following verſe, <hi>The Lord is my helper, and I will not fear what man ſhall do unto me.</hi> In this text of Scripture we have ſever<g ref="char:EOLhyphen"/>al things conſiderable; as firſt, a double Ex<g ref="char:EOLhyphen"/>hortation, branching it ſelf into two Heads, firſt conſiſting of our Converſation, <hi>Let your converſation be without covetouſneſs;</hi> &amp; ſecond<g ref="char:EOLhyphen"/>ly conſiſting of our Contentment, <hi>and be con<g ref="char:EOLhyphen"/>tent with ſuch things as ye have:</hi> And then you have the ground or reaſon of all, in this aſ<g ref="char:EOLhyphen"/>ſured Promiſe of God, <hi>For he hath ſaid, I will never leave thee, nor forſake thee.</hi> For the firſt Exhortation againſt the ſin of Covetouſneſs, ye have the evil of this ſin laid out in y<hi rend="sup">e</hi> words of our bleſſed Apoſtle <hi>Paul</hi> to <hi>Timothy, <hi>Tim.</hi> 6.9, 10. But they that will be rich, fall into tempta<g ref="char:EOLhyphen"/>tion, and a ſnare, and into many fooliſh and hurtful
+<pb facs="tcp:31687:4"/>luſts, which drown men in deſtruction and perditi<g ref="char:EOLhyphen"/>on. For the love of money is the root of all evil, which while ſome have coveted after, they have erred from the faith, &amp; pierced themſelves through with many ſorrows.</hi> Now ſecondly, for the ſe<g ref="char:EOLhyphen"/>cond thing here exhorted unto, which is Con<g ref="char:EOLhyphen"/>tentedneſs; you have the good of it laid out in theſe words, as in <hi>1 Tim. 6.6. Godlideſs is great g<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in with contentment.</hi> And <hi>verſ. 8. And having food and raiment, let us therewith be con<g ref="char:EOLhyphen"/>tent.</hi> This leſſon our bleſſed Apoſtle had lear<g ref="char:EOLhyphen"/>ned himſelf, and therefore from experience teacheth it to all that truly fear God, <hi>Phil. 4 11 Not</hi> (ſaith he) <hi>that I ſpeak in reſpect of want, for I have learned in whatſoever ſtate I am there<g ref="char:EOLhyphen"/>with to be content.</hi> The like we read of good <hi>Jacob,</hi> he being bleſſed by his father, and ſent to <hi>Padannar<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m,</hi> there the Lord appear'd to him in a viſion at <hi>Bethel,</hi> confirming and making good this very Promiſe unto him, amongſt ſeveral others, <hi>Gen. 28. ver. 15. Behold I will be with thee, and will keep thee in all places whither thou goeſt, and will bring thee again into this land, for I will not leave thee, until I have done that which I have ſpoken to thee of.</hi> This good man notwithſtanding, layes out this his Conten<g ref="char:EOLhyphen"/>tedneſs, in the <hi>20</hi> and <hi>21</hi> verſes, ſaying, <hi>If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and rai<g ref="char:EOLhyphen"/>ment to put on, ſo that I come again to my Fa<g ref="char:EOLhyphen"/>thers
+<pb facs="tcp:31687:4"/>houſe in peace, then ſhall the Lord be my God.</hi> Now as touching this aſſured Pro<g ref="char:EOLhyphen"/>miſe of God to his people, which is the very Ground and Life of all our Performances (and Duties) and comfortable to the heart of every true Believer, is written for our learning in theſe words. <hi>For he hath ſaid, I will never leave thee, nor forſake thee.</hi> It repre<g ref="char:EOLhyphen"/>ſents it ſelf unto us, in full aſſurance that Gods people ſhall never be forſaken of God: or thus, God will never leave nor forſake his people, though they may fall ſadly under afflictions, and Gods hand of correction may lye upon them, yet they ſhall never be for<g ref="char:EOLhyphen"/>ſaken; though <hi>Zion</hi> may ſay, as in <hi>Iſaiah 49.14. The Lord hath forſaken me, and my Lord hath forgotten me;</hi> yet the Lord anſwers, <hi>verſ. 15. Can a Woman forget her ſucking Child, that ſhe ſhould not have compaſſion on the Son of her womb, yea, they may forget, yet will I not forget thee,</hi> ſaith the Lord. Theſe promiſes of God are in ſeveral places of Scripture recorded, and all to aſſure Gods people that they ſhall never be forſaken: God was with good <hi>Jacob</hi> in his way to <hi>Padannaram,</hi> &amp; alſo with <hi>Moſes,</hi> by whom he wrought great ſigns &amp; wonders in the land of <hi>Egypt</hi> before <hi>Pharoah,</hi> in the red Sea, &amp; in the wilderneſs; and theſe precious promiſes hath ever attended Gods people in their greateſt adventures. It was made to
+<pb facs="tcp:31687:5"/>good <hi>Joſhua, <hi>Deut.</hi> 31.8. <hi>Joſhua.</hi> 1.5. As I was with <hi>Moſes,</hi> ſo I will be with thee, I will not fail thee, not forſake thee;</hi> all which compared to<g ref="char:EOLhyphen"/>gether holds forth to us y<hi rend="sup">e</hi> truth of all, which is this, <hi>That God will never forſake his people; God will be with them as well in their poverty as proſperity, as well in their afflictions and tryals, as in the time of their flouriſhing eſtate and conditi<g ref="char:EOLhyphen"/>on.</hi> God will be with them in all times of perſecution, God was with <hi>Iſrael</hi> in <hi>Egypt,</hi> with <hi>Joſeph</hi> in priſon, with <hi>Moſes</hi> at the red Sea, and in the Wilderneſs, with the <hi>Three Children</hi> in the fiery Furnace, with <hi>Daniel</hi> in the Lions den, with <hi>Jeremiah</hi> in the dungeon, with <hi>Peter,</hi> and <hi>John,</hi> and with <hi>Paul</hi> &amp; <hi>Silas</hi> in priſon: this Promiſe was renewed, &amp; made good by our bleſſed Saviour himſelf, when he gave his Diſciples their Commiſſion, <hi>Matt. 28.20. Lo</hi> (ſaith he) <hi>I am with you to the end of the world.</hi> Now ſéeing, beloved, ſuch preci<g ref="char:EOLhyphen"/>ous promiſes of God are of ſuch concernment to Gods people, I ſhall onely, as I have op<g ref="char:EOLhyphen"/>portunity and room in this ſmall volumn, Firſt, ſhew you, <hi>Who they are, that may be owned to be really the people of God.</hi> Secondly, I ſhall give you ſome Grounds or Reaſons, <hi>why Gods people ſhall never be forſaken.</hi> Third<g ref="char:EOLhyphen"/>ly, <hi>This will aford ſeveral Cautions to the people of God to labour and ſtrive to make good their ſtanding in the way of an holy profeſſion, whereby
+<pb facs="tcp:31687:5"/>they may put on the whole Armour of God, and walk by the examples of other precious Servants of the Lord.</hi> And in the laſt place, <hi>A loving invitation to poor Sinners, inviting them to leave their ſins, and come to Chriſt by Repentance.</hi>
+            </p>
+            <p>And Firſt, <hi>who they are that may be owned to be the people of God, whereby every diſcerning Soul may come to know his condition.</hi> Several Particulars I might ſpeak of in their diſco<g ref="char:EOLhyphen"/>very, but I ſhall only name theſe Thrée fol<g ref="char:EOLhyphen"/>lowing;</p>
+            <p>Firſt, <hi>They that are really the people of God, they have a diſcerning faculty implanted in them by the holy Spirit of God, whereby they can diſ<g ref="char:EOLhyphen"/>cern in part, and know the Will of God their Fa<g ref="char:EOLhyphen"/>ther, which gives them a full Aſſurance, that they are the very flock of Chriſt.</hi> And firſt, <hi>they know the voice of Chriſt, <hi>John</hi> 10.4. They know when Chriſt ſpeaks unto them in the purity of the word, without any mixture of humane invention or tra<g ref="char:EOLhyphen"/>dition brought in by the will of man; and as they know the voice of Chriſt, ſo the voice of Strangers they will not follow, every falſe way is a ſtranger to them, <hi>John.</hi> 10.5. <hi>And a ſtranger they will not follow, but will flee from him, for they know the voice of ſtrangers.</hi> They have therefore a diſcerning fa<g ref="char:EOLhyphen"/>culty betwixt good and evil, whereas the natural<g ref="char:EOLhyphen"/>man cannot diſcern the things of God, becauſe they are ſpiritually blinded, 1 <hi>Cor.</hi> 2.14, <hi>The natural<g ref="char:EOLunhyphen"/>man receiveth not the things of the ſpirit of God, for
+<pb facs="tcp:31687:6"/>they are fooliſhneſs unto him, becauſe they are ſpiri<g ref="char:EOLhyphen"/>tually diſcerned.</hi> But a true believer he can diſcern and ſee through ſuch a glaſs, the Will of his heaven<g ref="char:EOLhyphen"/>ly Father.</hi>
+            </p>
+            <p>Secondly, <hi>As they have a diſcerning faculty, ſo they have an aſſured confidence in God;</hi> So that a gracious ſoul can ſay with chearfulneſs as in <hi>Micha 7.7. Therefore will I look up onto the Lord, I will wait for the God of my Salvation, my God will hear me.</hi> A gracious Soul can look through all difficulties &amp; dangers in afflicti<g ref="char:EOLhyphen"/>ons, and though it ſées Gods hand lifted up, yet it can ſay, as in <hi>Habak. 3.17, 18. Although the figtree ſhall not bloſſom, neither ſhall fruit be in the Vines, the labour of the Olive ſhall fail, and the fields ſhall yield no meat, the flock ſhall be cut off from the fold, and there ſhall be no herd in the ſtalls; yet will I rejoyce in the Lord, I will joy in the God of my Salvation; the Lord is my ſtrength, and he will make my feet like Hindes-feet.</hi> Oh chriſtians! its admirable for tongue to ſpeak or heart to conceive, y<hi rend="sup">e</hi> aſſured confidence y<hi rend="sup">t</hi> a gracious ſoul hath in God, that reſts wholly upon y<hi rend="sup">e</hi> promiſes of God, made over to them in Jeſus Chriſt. It was admirable in <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> when he went fréely, at the command of God, to offer his ſon <hi>Iſaac,</hi> that was the only heir of promiſe, of whom it was ſaid, <hi>Gen. 21.12. In <hi>Iſaac</hi> ſhall thy Seed be called;</hi> yet <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> fréely manifeſteth his faith. <hi>Accompting
+<pb facs="tcp:31687:6"/>that God was able to raiſe him up even from the dead, from whence he alſo receiv'd him as a figure,</hi> as ſaith our Author to y<hi rend="sup">e</hi> 
+               <hi>Hebrews, ch. 11. v. 19.</hi> this aſſured confidence is a tryed and <hi>precious faith,</hi> which only appertaineth to true belie<g ref="char:EOLhyphen"/>vers, <hi>2 Pet. 1.1.</hi>
+            </p>
+            <p>Thirdly, <hi>As they have an aſſured Confidence in God, ſo they have a Son-like obedience to God.</hi> Thoſe that are really the Lords people, they obey God as their Father in all his co<g ref="char:cmbAbbrStroke">̄</g>mands, they wil obey his word &amp; his ordinances, they know the voice of Chriſt as their ſhepherd, &amp; therefore they will follow y<hi rend="sup">e</hi> Lamb whither<g ref="char:EOLhyphen"/>ſoever he goeth; you may read the Laws of God imprinted in their hearts by their out<g ref="char:EOLhyphen"/>ward walkings &amp; godly converſation; they'l be aſham'd to run into any manner of ſin, ei<g ref="char:EOLhyphen"/>ther openly or privatly, they are ſuch as ab<g ref="char:EOLhyphen"/>hor all manner of ſin, &amp; cannot endure to ſin, <hi>2 Cor. 3.2. Ye are our epiſtle written in our hearts, known and read of all men.</hi> They bear y<hi rend="sup">e</hi> badge and Name of Chriſt along with them, they come fréely in, their prayers they put up to y<hi rend="sup">e</hi> throne of grace, call God Father, as they are inſtructed in that bleſſed form of prayer that our Lord &amp; Saviour taught his Diſciples to ſay, <hi>Mat. 6.9. Luk. 12.2. When you pray, ſay, Our Father, &amp;c.</hi> which is the very marrow of all prayers: And thus you ſée, beloved, <hi>That they that are really the Lords people, they have, Firſt a
+<pb facs="tcp:31687:7"/>diſcerning faculty, whereby they can diſcern by the eye of faith, the will of their heavenly father: and Secondly, they have an aſſured Confidence in God: and Thirdly, they have a Son-like Obedi<g ref="char:EOLhyphen"/>ence to God, &amp; ſo they own God as their Father; by which we may aſſuredly ſee God will not leave nor forſake his own people, as our Saviour ſaith, <hi>Thoſe that come unto me, I will in no wiſe caſt off.</hi>
+               </hi>
+            </p>
+            <p>Now there are ſeveral Grounds in y<hi rend="sup">e</hi> Se<g ref="char:EOLhyphen"/>cond place. <hi>Why God will not leave nor farſake his people.</hi> The Firſt is drawn from <hi>the Love of God:</hi> God hath ever a dear love to his own people; though love be a faculty in man, yet it's a property in God, <hi>1 Joh. 4 8. He that lo<g ref="char:EOLhyphen"/>veth not, knoweth not God, for God is love.</hi> verſ. <hi>9. In this was manifeſted the love of God towards us, becauſe God ſent his only begotten Son into the world, that we might live through him, and herein is love, not that we loved God but that he loved us firſt.</hi> The love of God is from all E<g ref="char:EOLhyphen"/>ternity, and to Eternity, it is the greateſt Matter of Antiquity in the world.</p>
+            <p>A Second Reaſon, <hi>Why God will never for<g ref="char:EOLhyphen"/>ſake his people, is drawn from the Choice God hath made of them,</hi> God hath choſen them from Eternity, <hi>Deut. 7.7,8. The Lord did not ſet his love upon you, nor chooſe you becauſe you were more in number then any people, for you were the feweſt of all people; but becauſe the Lord loved you, and becauſe he would keep the oath which he
+<pb facs="tcp:31687:7"/>had ſworn to your fathers, &amp;c.</hi> Our bleſſed A<g ref="char:EOLhyphen"/>poſtle ſo ſtyles them in <hi>1 Pet. 2.9. But ye are a choſen Generation.</hi> Gods love to his people, begets his choice of them, they are the choſen of God, &amp; precious, his dearly beloved ones, in whom his ſoul delighteth, <hi>Joh 15.16 Ye have not choſen me, but I have choſen you.</hi> God hath choſen his people from the foundation of the world, and they are his Elect to all e<g ref="char:EOLhyphen"/>ternity, for whom he loves once, he loves to the end; there is no change in God, he varies not, he is one and the ſaue yeſterday and to day, and for ever.</p>
+            <p>A Third Ground or Reaſon, <hi>Why God will never leave nor forſake his people, is drawn from the Conſideration of the price of their Redempti<g ref="char:EOLhyphen"/>on</hi> God hath purchaſed them at a high rate, as Gods love to his people, moves him to chooſe them, ſo Gods choice of them moves him to redéem them, and ſo they become his purchaſed inheritance, <hi>1 Cor. 6.19, 20. And ye are not your own, for ye are bought with a price, therefore glorifie God in your bodies, and in your ſouls, 1 <hi>Cor.</hi> 7.23. Ye are bought with a price, be ye not ſervants of men, 1 <hi>Pet.</hi> 1.18, 19. Foraſmuch as ye know that you were not redeemed with cor<g ref="char:EOLhyphen"/>ruptible things, as ſilver nor gold, from your vain Converſation, received by tradition from your fa<g ref="char:EOLhyphen"/>thers, but with the precious blood of Jeſus Chriſt, as of a Lamb without blemiſh and without ſpot.</hi>
+               <pb facs="tcp:31687:8"/>Therfore ſéeing here the unſearchable riches of Gods love to his people, Oh! let us glo<g ref="char:EOLhyphen"/>rifie God in our members, and double our diligence in his ſervice.</p>
+            <p>The Fourth Ground or Reaſon, <hi>Why Gods people ſhall never be forſaken, is drawn from the great care God hath over them.</hi> God hath pur<g ref="char:EOLhyphen"/>chaſed them at a very high rate; and that which a man buyes dear, he will be very un<g ref="char:EOLhyphen"/>willing to caſt away; God therefore ſets a continual guard over them, <hi>Pſal. 91, 11.</hi> to the end, <hi>He ſhall give his Angels charge over thee, to keep thee in all thy wayes, they ſhall bear thee up in their hands, leaſt thou daſh thy foot againſt a ſtone, &amp;c.</hi> Gods care over his people is ſuch, that they that will but truly reſt upon him, he will <hi>not ſuffer an hair of their heads to periſh;</hi> as you may ſée <hi>Mat. 10.30. Acts 27.34.</hi> Belo<g ref="char:EOLhyphen"/>ved, God hath ever béen his peoples kéeper, <hi>He that keepeth <hi>Iſrael,</hi> never ſlumbreth nor ſleep<g ref="char:EOLhyphen"/>eth, <hi>Pſal.</hi> 121.4. <hi>Iſa.</hi> 27.3. He ever taketh care of his own Inheritance.</hi>
+            </p>
+            <p>The Fifth Ground, or Reaſon, <hi>Why God will never leave nor forſake his people, is drawn from the Promiſes of God made over unto them:</hi> God hath promiſed <hi>his Preſents to be with them to the end of the world, Mat. 28.20.</hi> God hath promiſed <hi>them deliverance from trouble, <hi>Job</hi> 5.19 He ſhall deliver thee in ſix troubles, and in ſeven no evil ſhall touch thee:</hi> Gods promiſes to his
+<pb facs="tcp:31687:8"/>people, are either abſolute or conditional, &amp; thoſe which are conditional, God looks that believers ſhould fulfil the conditions, &amp; cloſe with the promiſe; it is to believers only that the promiſes are made, <hi>Acts 2.39. For the pro<g ref="char:EOLhyphen"/>miſe is to you &amp; to your children, &amp; to all that are afar off, even as many as the Lord our God ſhal call.</hi>
+            </p>
+            <p>The Sixth and Laſt Reaſon, <hi>Why God will never leave nor forſake his people, is drawn from the high eſteem God hath of his people.</hi> He va<g ref="char:EOLhyphen"/>lues them at a high rate, they are his own <hi>pe<g ref="char:EOLhyphen"/>culiar treaſure, Fxod. 19.5. Pſal. 35.4. For the Lord hath choſen <hi>Jacob</hi> to himſelf, &amp; <hi>Iſrael</hi> his peculiar treaſure. God eſteems them above all people of the earth, <hi>Deut.</hi> 10 15. They are his Jewels, <hi>Mal</hi> 3.17. They are his precious ones, in whom he delights;</hi> And therefore God hath a high Eſtéem of them, they are his beautified ones, in whom he ſées no deformity, <hi>Cant. 4.7. Thou art all fair my Love, and there is no ſpot in thee.</hi> The Lord Ieſus Chriſt ſées a Beauty in them, and ſo he eſtéems them.</p>
+            <p>And thus you ſée it's plain, <hi>God will never leave nor forſake his people that wait upon him,</hi> as it appears, Firſt, <hi>In reſpect of his Love to them:</hi> Secondly, <hi>In reſpect of his Choice of them.</hi> Thirdly, <hi>in reſpect of the price of their redempti<g ref="char:EOLhyphen"/>on:</hi> Fourthly, <hi>In reſpect of his ſpecial care over them:</hi> Fiftly, <hi>In reſpect of his Promiſes made o<g ref="char:EOLhyphen"/>ver unto them:</hi> &amp; Laſtly, <hi>In reſpect of his great Eſteem of them.</hi>
+            </p>
+            <pb facs="tcp:31687:9"/>
+            <p> Le<g ref="char:cmbAbbrStroke">̄</g>t us now therefore with all diligence ſet about to make <hi>our Calling and Election ſure, 2 Pet. 1.10.</hi> Let us take our bleſſed Apoſtles Counſel laid out for our inſtruction, <hi>2 Cor. 7.1. Having theſe Promiſes, dearly beloved, let us cleanſe our ſelves from all filthineſs of fleſh and Spirit, perfecting Holineſs in the fear of God.</hi> Oh Souls! let it be all your care and endeavour to honour your Heavenly Father: Conſider ſeriouſly, beloved, you can never do too much in the Service of God, live up every day in new obedience to God.</p>
+            <p>God hath given you a ſure word of Pro<g ref="char:EOLhyphen"/>miſe, Oh! do not loyter in the Lords Vine<g ref="char:EOLhyphen"/>yard; hath God Choſen you for his People, Oh! up and be doing the work of the Lord: Conſider ſeriouſly our God is a Holy God, &amp; he cannot endure the unfruitful works of darkneſs; let not any Afflictions you méet with in the Body or Eſtate draw you from God upon any accompt, Satan is very full of policy, and a moſt cunning Sophiſter, Wherefore that you may be the better en<g ref="char:EOLhyphen"/>abled to encounter with him, in the firſt place take unto you y<hi rend="sup">e</hi> whole armour of God: and Secondly, by the examples of other pre<g ref="char:EOLhyphen"/>cious ſervants of the Lord, labour to ſtreng<g ref="char:EOLhyphen"/>then your graces, and build up your ſelves every day as objects to follow ſuch examples, Firſt, take unto you <hi>the whole armour of God,</hi>
+               <pb facs="tcp:31687:9"/>which Armour is recorded <hi>Epheſians 6.13, 14, 15, 16, 17.</hi> And indéed every piece of this Armour is precious tryed mettel, the which being cloathed with, makes the Soul beau<g ref="char:EOLhyphen"/>tiful in the ſight of God, and will make you able to ſtand in the evil Day: For if you but ſeriouſly Conſider it, here is firſt Truth to you preſented in the Form of a Girdle; Truth is that that ſhould be the very girdle of your Loyns, it is that that makes you like to your Heavenly Father, it imprints the Image of Ieſus Chriſt upon you, <hi>John 14.17.</hi> &amp; <hi>17.17.</hi> And Secondly, The breſt plate of righteouſneſs is a moſt famous and rare piece of Armour, and turns back all thoſe bolts &amp; fiery darts of Satan, from the heart of a true Believer; this imprints in you the name of a precious Redéemer, who is called the Lord our Righteouſneſs.</p>
+            <p>Thirdly, There is another piece of this ar<g ref="char:EOLhyphen"/>mour for the féet, having your féet ſhod with a preparation of the Goſpel of Peace, ſo that we muſt be active in this our ſpiritual War<g ref="char:EOLhyphen"/>fare, with all our members, our féet muſt be made ſwift, and prepared to run in all the wayes of Gods Commandements, until we come to this everlaſting Prince of Peace.</p>
+            <p>In the Fourth place here is the great wea<g ref="char:EOLhyphen"/>pon of our Warfare, the Shield of Faith, which we are Commanded above all others
+<pb facs="tcp:31687:10"/>to take; 'tis that whereby we are made able to quench all the fiery Darts of the wicked; as Faith is the moſt rareſt and excellenteſt above all other Graces, ſo its a weapon that will not be turned back, as ſaith the Author to the <hi>Hebrews, 11.1. Faith is the ſubſtance of things hoped for, and the evidence of things not ſeen.</hi>
+            </p>
+            <p>Fiftly, Here is the Helmet of Salvati<g ref="char:EOLhyphen"/>on, which is a moſt rare piece of Armour for a Believer to put on, and to cloſe with Ieſus Chriſt, who is the Salvation of his People, <hi>Luke 2.30.</hi>
+            </p>
+            <p>And Laſtly, Here is the Sword of the Spirit, which is the Word of God, to at<g ref="char:EOLhyphen"/>tend this great Weapon of your Warfare, the Shield of Faith, which is that Weapon you ſhould Continually gird upon your Thigh, alluding to that in the <hi>45 Pſalm,</hi> the <hi>3</hi> and <hi>4</hi> verſes, <hi>Gird thy Sword upon thy Thigh, O moſt mighty; with thy Glory and Majeſty; and in thy Majeſty ride proſperouſly, becauſe of Truth and meekneſs and Righteouſneſs; and thy right hand ſhall teach thee terrible things.</hi> This Sword of the Spirit is a moſt prevalent Weapon, and Beloved, may ſometimes be alluded to the Sword of the Lord, and of <hi>Gideon, <hi>Judges</hi> 7.20.</hi> It puts to flight all thoſe Spiritual <hi>Midi<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nites,</hi> and Enemies of our poor Souls.</p>
+            <pb facs="tcp:31687:10"/>
+            <p> So Beloved, you may ſée hereby, what a rare thing it is, to have on this whole Ar<g ref="char:EOLhyphen"/>mour of God: it Fortifies a Believer on e<g ref="char:EOLhyphen"/>very hand.</p>
+            <p>Secondly, By the Example of other pre<g ref="char:EOLhyphen"/>cious Servants of the Lord, labour to ſtrengthen your graces, and nouriſh every Branch thereof: Every tender Plant of Knowledge the Lord beſtows upon you, nouriſh it, if you be ſure it procéeds from a right Principle; otherwiſe, if you per<g ref="char:EOLhyphen"/>ceive it is not according to the Mind and Will of God, and you have no ſtrength for the ſame in the Arm of Faith, to ſmite with the Sword of the Spirit, which is the Word of God, caſt it away; have nothing to do with ſuch a Principle as is Erronious and Corrupt.</p>
+            <p>Firſt, <hi>Doth God call you to Exerciſe your Faith?</hi> Look upon the Example of your Fa<g ref="char:EOLhyphen"/>ther <hi>Abraham,</hi> who had many Tryals upon that very account, and yet he chéerfully, through Faith, under-went all, until it came to the very touch ſtone of all Tryals, which was the Offering up of his Son <hi>Iſaac,</hi> of whom it was ſaid, <hi>That in <hi>Iſaac</hi> ſhall thy Seed be called:</hi> and yet <hi>Abraham</hi> goes fréely to the Altar, accounting that God was able to raiſe him up, even from the dead, <hi>Heb. 11.17, 18, 19.</hi>
+            </p>
+            <pb facs="tcp:31687:11"/>
+            <p> Secondly, <hi>Doth God call you to Exerciſe your Hope?</hi> Conſider that Faith and Hope go both together, where the one is, the o<g ref="char:EOLhyphen"/>ther cannot be wanting; For <hi>Faith is both the Subſtance and Evidence of our Hope, <hi>Heb.</hi> 11.1.</hi> For what can we hope for, except we have Faith to believe.</p>
+            <p>Thirdly, <hi>Doth God call you to Exerciſe your Patience?</hi> Look back upon the Example of good <hi>Job,</hi> who undergoes the hand of the Lord ſo chéerfully and patiently, that he cryes out at the laſt, <hi>Though he ſlay me, yet will I truſt in him, <hi>Job.</hi> 13.15.</hi> If you will but look back upon ſome of the Lords Ser<g ref="char:EOLhyphen"/>vants of old, you may learn by them your Duties; Learn with <hi>Abel,</hi> to get acceptance with God: with <hi>Enoch,</hi> to walk with God: with <hi>Noah,</hi> a Preacher of Righteouſneſs, to get into Gods protection. Learn with <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> to act your Faith: with <hi>Jacob,</hi> to wraſtle with God: with <hi>Joſeph,</hi> rather to ſubmit to Priſon, then to diſhonour God with a luſtful Miſtris. Learn with <hi>Moſes</hi> Méekneſs, with <hi>David</hi> Repentance, with <hi>So<g ref="char:EOLhyphen"/>lomon</hi> Wiſdom, with <hi>Job</hi> Patience, with <hi>Jeremiah</hi> Lamentation for the Sins of the People; Learn of our bleſſed Saviour, Ie<g ref="char:EOLhyphen"/>ſus Chriſt, to take up your Croſs and follow him; ſéeing the goodneſs of God hath ſo ap<g ref="char:EOLhyphen"/>pointed it, <hi>that his People ſhall never be for<g ref="char:EOLhyphen"/>ſaken.</hi>
+               <pb facs="tcp:31687:11"/>Oh! do not you fail in your perform<g ref="char:EOLhyphen"/>ances; Conſider, God hath not made his Choice of you in vain, (he hath Loved you, Choſen you, Redéemed you, taken Care over you, made out his Promiſes unto you, and Eſtéems you above all others) therefore labour you every day to be Acting in a way of holy Profeſſion.</p>
+            <p>And now Beloved, to apply this Truth in a way of Invitation, is my whole deſign at this time, though much might be ſaid upon ſeveral accounts, yet the main end of what I have more to ſay, is, <hi>To invite poor Sinners to come to Chriſt by Repentance.</hi>
+            </p>
+            <p>Sinners, you hear, <hi>God will never leave nor forſake his own people: they are his own Inheritance, his peculiar Treaſure, his beloved ones, in whom he delights;</hi> And you will hear that dreadful Sentence paſſed againſt you at the laſt, if you do not Repent, and come to Chriſt for Salvation, <hi>Mat. 25.41. Depart from me ye Curſed into everlaſting fire, prepared for the Devil and his Angels.</hi> Without Re<g ref="char:EOLhyphen"/>pentance, there is nothing of Comfort for you, but this dreadful Sentence of <hi>Depart from me ye workers of Iniquity, <hi>Matth.</hi> 7.23. <hi>Luke</hi> 13.3. I tell you nay, but except you re<g ref="char:EOLhyphen"/>pent, ye ſhall all likewiſe periſh.</hi> As the joy and comfort the people of God ſhall enjoy in heaven, is beyond the reach of the eye of man
+<pb facs="tcp:31687:12"/>to ſée, the ear to hear, the heart to conceive, and the tongue of man to expreſs: So the miſery of the wicked in Hell, is beyond both the eye to ſée, the ear to hear, the heart to conceive, and the tongue to expreſs. Oh Sinners! its indurable miſery; it begins with you with a dreadful Sentence, but it will never end, when Thouſands of years are paſſed over, your miſery is never the leſs, your Torments ſtill endure, and ye have never leſs years to ſpend, your Torments will be as freſh as ever they were: Oh! therefore, I pray you Sinner, come to Chriſt, leave of your Sins, and beg earneſtly for pardon and remiſſion of your ſins; the Lord hath paſſed a righteous Iudgement againſt Sinners, you cannot lay the cauſe of your miſery upon another, <hi>Ezekiel 18.20. The Soul that ſinneth ſhall die: the Son ſhall not bear the iniquity of the Father, neither ſhall the Father bear the iniquity of the Son, the Righneouſneſs of the Righteous ſhall be upon him, and the wickedneſs of the wicked ſhall be upon him:</hi> Nor you cannot lay the cauſe of your miſery upon God, <hi>Ezek. 33.11. As I live, ſaith the Lord God, I have no pleaſure in the death of the wicked, but that the wicked turn from his way and live. Turn you, turn you from your evil wayes: for, why will you die, O Houſe of Iſrael?</hi>
+            </p>
+            <pb facs="tcp:31687:12"/>
+            <p> Oh Sinners! Why will you not come to Chriſt, methinks I hear a great Complaint againſt you from the bleſſed word of God, <hi>John 5.40. And ye will not come to me that you might have life.</hi> Oh Sinners! Conſider there is no way to be ſaved, but to come to Chriſt; the way to Heaven is by Faith in Ieſus Chriſt, <hi>Acts 16.31. Believe in the Lord Jeſus Chriſt, and thou ſhalt be ſaved, and thy Houſe.</hi> Now that you may the better be en<g ref="char:EOLhyphen"/>couraged to come to Chriſt, and to cloſe with him, Conſider theſe few things follow<g ref="char:EOLhyphen"/>ing:</p>
+            <p>Firſt, Chriſt invites poor Sinners to come, <hi>Mat. 11.28. Come unto me all ye that are weary and heavy laden, and you ſhall find reſt for your Souls.</hi> Sinners, be encouraged to cloſe with Chriſt when ever he calls: defer not your times: put it not off till to morrow: when God calls, then is your day: when Chriſt invites, be you willing to cloſe with him, for then is your acceptable day of Deliver<g ref="char:EOLhyphen"/>ance, if you will but diligently obey. Be you therefore ready to receive his offer, for then is the time of Love. Oh! poor Sin<g ref="char:EOLhyphen"/>ners, when ever Chriſt knocks at the doors of your hearts, be you ready to receive him, and be ſure you open to him, leſt he ſay at the great day of Iudgement, <hi>Away from me, ye workers of Iniquity; I call'd you at ſuch a time
+<pb facs="tcp:31687:13"/>and the very checks of your Conſciences told you that you were in a way of deſtruction; and if you had then repented, and obeyed my voice, and opened unto me, I would have met you, and have opened unto you the everlaſting gate of Mercy; but now away, Depart from me, I know you not.</hi>
+            </p>
+            <p>Secondly, Conſider Chriſts Invitation is frée, its upon frée terms, <hi>Iſaiah 55.1. Ho e<g ref="char:EOLhyphen"/>very one that thirſteth, Come to the waters; and he that hath no Money: come ye, buy and eat, yea come, buy wine and milk without money, and without price.</hi> Come along poor Sinners, here's frée Invitation for you from a bleſſed Maſter, that will ever perform what he ſaith, verſe the 7th. <hi>Let the wicked forſake his way, and the unrighteous man his thoughts: and let him return unto the Lord, and he will have mer<g ref="char:EOLhyphen"/>cy upon him; and to our God, for he will abun<g ref="char:EOLhyphen"/>dantly pardon.</hi> Doſt thou want Faith? beg earneſtly of God for it; ſay, <hi>Lord, I believe, help my unbelief:</hi> ſtrive with all thy ſtrength to obtain this precious grace of Faith.</p>
+            <p>Thirdly. Conſider poor Sinners, Ieſus Chriſt hath promiſed, <hi>That whoſoever comes unto him, he will in no wiſe caſt out, Joh, 6.37.</hi> And you have it here confirmed, <hi>That God will never leave nor forſake his people.</hi> Oh! therefore be perſwaded to come to Chriſt, and to cloſe with him; and do not you think
+<pb facs="tcp:31687:13"/>that godlineſs is a ſolitary life, and dubi<g ref="char:EOLhyphen"/>ous unto you; if you will but ſeriouſly con<g ref="char:EOLhyphen"/>ſider, there is more true joy in one hour in holy company, if they be ſuch as truly ſerve God, in all his wayes and Commands, then all the World can afford thée other<g ref="char:EOLhyphen"/>wayes</p>
+            <p>Fourthly, Conſider Sinners, as you come to Chriſt, and forſake your ſins, you come into the Verge of his Prayers, Chriſt prayes <hi>for all them that are given him of the Father, but he prayes not for the world, Joh. 17.9.</hi> While you lye in your ſins, you are as dead men, you cannot come to be ſharers with any of the Lords Servants in our Saviours Pray<g ref="char:EOLhyphen"/>ers to his Father: Oh! therefore be per<g ref="char:EOLhyphen"/>ſwaded to come to Chriſt, and to cloſe with him.</p>
+            <p>Laſtly, Conſider Sinners, what Ieſus Chriſt hath done to Redéem your ſouls from Hell, if you will but come unto him, <hi>Iſaiah 53 5. He was wounded for our tranſgreſſions, he was bruiſed for our iniquities: the chaſtiſment of our peace was upon him, and with his ſtripes we are healed.</hi> Ieſus Chriſt hath ſhed his pre<g ref="char:EOLhyphen"/>cious Blood to Redéem our Souls from mi<g ref="char:EOLhyphen"/>ſery: Oh Sinners! therefore be perſwaded to come to Chriſt, leave your former courſes, deſtroy that Enemy of your precious Souls, and cloſe with this bleſſed Saviour, and he
+<pb facs="tcp:31687:14" rendition="simple:additions"/>will receive you into his Favour, and ſo you will come to be of that bleſſed Number that <hi>ſhall never be forſaken.</hi>
+            </p>
+            <p>To Conclude, All at this time which I have to ſay unto you, I beſéech you, beloved, take along with you this excellent Exhorta<g ref="char:EOLhyphen"/>tion of our bleſſed Apoſtle <hi>Paul, 1 Theſſ. 5. 21, 22, 23, 24. Prove all things; hold faſt that which is good: Abſtain from all appearance of evil: And the very God of peace Sanctifie you wholly: and I pray God your whole Spirit, and Soul, and Body, be preſerved blameleſs unto the coming of our Lord Jeſus Chriſt: Faithful is he that calleth you, who alſo will do it.</hi> For the which Coming and bleſſed Appearance, the Lord, for his mercy ſake, grant we may all be Prepared to receive the ſwéet Bridgroom of our Souls unto all Eternity, for ever<g ref="char:EOLhyphen"/>more, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31687:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
